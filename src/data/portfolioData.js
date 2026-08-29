@@ -87,12 +87,14 @@ export const portfolioData = {
     {
       name: "SAP – ABAP Backend Developer",
       year: "2026",
-      issuer: "SAP"
+      issuer: "SAP",
+       link: "https://www.credly.com/badges/c0a7475c-eb86-40a5-8a07-d92873772edb/public_url"
     },
     {
       name: "AWS Cloud Practitioner Essentials",
       year: "2026",
-      issuer: "AWS"
+      issuer: "AWS",
+       link: "https://drive.google.com/file/d/1PLrYjIxfsI4WRwhumkhm7xryXQ2upRvQ/view?usp=sharing"
     }
   ],
   languages: [
