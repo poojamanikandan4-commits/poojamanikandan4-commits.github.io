@@ -11,8 +11,8 @@ export const portfolioData = {
     resumeUrl: "./resume.pdf"
   },
   socialLinks: {
-    linkedin: "ADD_YOUR_LINKEDIN_URL_HERE",
-    github: "ADD_YOUR_GITHUB_URL_HERE"
+    linkedin: "https://www.linkedin.com/in/poojamanikandan16/",
+    github: "https://github.com/poojamanikandan4-commits"
   },
   education: [
     {
