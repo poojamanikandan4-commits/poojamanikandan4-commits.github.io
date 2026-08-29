@@ -53,8 +53,8 @@ export const portfolioData = {
     {
       title: "CLOUD COST OPTIMIZER AI AGENT",
       date: "June 2026",
-      technologies: ["Python", "GitHub API"],
-      githubUrl: "ADD_YOUR_PROJECT_GITHUB_URL_OR_LEAVE_EMPTY",
+      technologies: ["Python", "Streamlit"],
+      githubUrl: "https://github.com/poojamanikandan4-commits/cloud-cost-optimizer",
       description: [
         "Built an AI-powered tool to analyze cloud costs and identify optimization opportunities.",
         "Developed an agent-based dashboard with GitHub API integration and automated reporting.",
@@ -65,7 +65,7 @@ export const portfolioData = {
       title: "JAVA GUI GAME DEVELOPMENT",
       date: "January 2025 – June 2025",
       technologies: ["Java", "AWT", "Swing"],
-      githubUrl: "ADD_YOUR_PROJECT_GITHUB_URL_OR_LEAVE_EMPTY",
+      githubUrl: "https://github.com/poojamanikandan4-commits/Flappy-Bird",
       description: [
         "Built a desktop version of Flappy Bird using Java with smooth animation and collision detection.",
         "Designed custom UI and game logic using Java AWT and Swing frameworks.",
